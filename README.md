@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KuldeepKumar8979
+- 👋 Hi, I’m @Kuldeep Kumar8979
 - 👀 I’m interested in ... Python, Excel, Power Bi, Data Visualization, Machine learning
 - 🌱 I’m currently learning ...  Machine learning
 - 💞️ I’m looking to collaborate on ... Data Scientist 
